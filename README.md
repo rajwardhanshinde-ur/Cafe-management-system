@@ -22,3 +22,27 @@ Pandas – for managing tabular order data
 Datetime – to record order dates
 
 OpenPyXL (via Pandas) – for saving data to Excel
+
+Menu Options:
+Add New Order - Enter customer name, item ordered, and quantity
+
+View All Orders - Display all current orders in a table format
+
+Update Order - Modify existing order details
+
+Export to Excel - Save all orders to an Excel file for reporting
+
+Exit - Close the application
+
+📊 Example Output
+When exporting to Excel, the system generates a structured file with columns:
+
+Order ID
+
+Customer Name
+
+Item Ordered
+
+Quantity
+
+Order Date & Time
